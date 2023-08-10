@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Mechanical Engineering
 - 💞️ I’m looking to collaborate on creating a script of an infinite loop.
-- 📫 How to reach me . . . https://www.linkedin.com/in/essai-cardoza-303726190/ message me on linkedin!
+- 📫 How to reach me . . . cardozaessai@gmail.com email me here!
 
 
 <!---
