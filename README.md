@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caressai. Thank you for visiting my profile!
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Mechanical Engineering
-- 💞️ I’m looking to collaborate on creating a script of an infinite loop.
+- 💞️ I’m looking to collaborate on creating a script of an infinite loop as a starter project.
 - 📫 How to reach me . . . cardozaessai@gmail.com email me here!
 
 
